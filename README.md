@@ -1,27 +1,28 @@
 # express-config
-Setting up express the way I like it
+'''html
+Setting up express the way I like it<br>
 
-Things To Note
+<h2>Things To Note</h2><br>
 
-NPM PACKAGES BEING USED
-body-parser
-connect-flash
-ejs
-express
-express-session
-method-override
-mongoose
-passport
-passport-local
-passport-local-mongoose
+<h4><b>NPM PACKAGES BEING USED</b><h4><br>
+body-parser<br>
+connect-flash<br>
+ejs<br>
+express<br>
+express-session<br>
+method-override<br>
+mongoose<br>
+passport<br>
+passport-local<br>
+passport-local-mongoose<br>
 
-Models
-User
+<h4><b>Models</b></h4><br>
+User<br>
 
-Routes
-/
-Auth Routes Commeneted Out
+<h4><b>Routes</b></h4><br>
+/<br>
+Auth Routes Commeneted Out<br>
 
-That's It :)
-
+That's It :)<br>
+'''
 
